@@ -41,7 +41,7 @@ This repository is a growing library of **batch scripts, PowerShell scripts, and
 
 | Script | Description |
 |--------|-------------|
-| `StartAllBack-Fix.bat` | Repairs and re-registers **StartAllBack** after a Windows update breaks the classic Start Menu / taskbar experience. Stops the affected service, re-runs the installer in repair mode, and restarts Explorer. |
+| `StartAllBackCrack.ps1` | Patch the free version of StartAllBack by editing the regedit (Place this script into shell:startup for auto patch at every restart. |
 
 ### 🧰 Software Utilities
 
